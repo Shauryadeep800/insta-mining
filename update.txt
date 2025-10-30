@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "title": "New Update Available!",
   "msg": "A new version of the app is available. Please update now.",
   "ok": "Update",
