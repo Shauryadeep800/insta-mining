@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "title": "New Update Available!",
+  "msg": "A new version of the app is available. Please update now.",
+  "ok": "Update",
+  "cancel": "Exit",
+  "url": "https://t.me/+QtaNnAj5BFU1ZWFl"
+}
