@@ -1,4 +1,8 @@
-UO1k98xi8lBbBC4cfLEXkcndS9ywrEn4nc5bU5SMxFjNuqlT0d1NfF4O/eBf8B6IkfwsNG6bLuW6
-SUQJcXuSc+RN78sxOt0H48/rwfci/2T0sE2mDjdaSTXeRSM4RggnTRwfRAsLwN9RkiOSFoc6N1ln
-KPbJlO3m0vCDEM+NH3iXQBCqjL08oQaQ9i2lvOk8JEtWBiTPR+8AX/8iXG1AG2rcKfBXsDv9RgNv
-V/tSq7R4Fjd+O0oVKiVQ8KZW+YsTYRbPZOCLKVEyV3iZnFq3AyPJv4pfAvTx2YSyOA+xBLg=
+{
+  "version": "1.0.1",
+  "title": "New Update Available!",
+  "msg": "A new version of the app is available. Please update now.",
+  "ok": "Update",
+  "cancel": "Exit",
+  "url": "https://t.me/+QtaNnAj5BFU1ZWFl"
+}
